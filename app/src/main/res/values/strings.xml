@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pixelate</string>
+    <string name="camera_text">Take a photo</string>
+    <string name="gallery_text">Import from gallery</string>
+    <string name="new_button">Import a new image</string>
+    <string name="pixel_size_text">Pixel Size</string>
+    <string name="save_button">Save image</string>
+    <string name="default_pixel_size">0</string>
+    <string name="pixelate_description">Transform any picture into pixel art!</string>
+</resources>
